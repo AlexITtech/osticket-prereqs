@@ -27,10 +27,82 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 ![Screenshot 2025-04-28 092017](https://github.com/user-attachments/assets/deaa8482-1fe4-4eba-9e92-d9bc7af85a0e)
+1.) First, we set up a resource group in Microsoft azure and name it osTicket. Next, we create a virtual machine (VM) within this group, using a Windows 10 image and ensuring it is configured with a minimum of 2 vCPUS.
 
 
 ![Screenshot 2025-04-28 092549](https://github.com/user-attachments/assets/8dfd6278-6e02-42d3-aa2c-e9fe054f7de7)
 
+
+
+
 ![osticket install_LI](https://github.com/user-attachments/assets/4a23beff-a906-4ea8-8680-1eb6b4eab2d9)
 
+
+
+
+![image](https://github.com/user-attachments/assets/e8c380f4-c0c2-4503-996c-1a796efd579e)
+
+
+
+
+![image](https://github.com/user-attachments/assets/aa044c4f-8a9e-412b-8be1-9952aa9206a3)
+
+
+
+
+![image](https://github.com/user-attachments/assets/5cc14b6f-eefc-413e-876b-e129714d5d78)
+
+
+
+
+![image](https://github.com/user-attachments/assets/7e16ac1a-8c82-4561-9bda-d8a80ebc1e3f)
+
+
+
+
+![image](https://github.com/user-attachments/assets/51d0a6e2-44b3-4cc7-8885-dea720bbd317)
+
+
+
+
+![image](https://github.com/user-attachments/assets/e51935a0-4a18-483f-95de-6f2152e7ae08)
+
+
+
+
+![image](https://github.com/user-attachments/assets/2a4b0988-34bb-4a9e-9ec9-9eaa6c1a130b)
+
+
+
+![image](https://github.com/user-attachments/assets/1a2ff974-bb16-4dda-a098-f18435250279)
+
+
+
+
+![image](https://github.com/user-attachments/assets/36d86ccb-d7bd-47f4-88b6-78f90ba833b2)
+
+
+
+
+![image](https://github.com/user-attachments/assets/0282a6ea-cb48-4714-8fd5-d86f8233d325)
+
+
+
+
+![image](https://github.com/user-attachments/assets/d3254e10-aaba-48aa-8daf-b0aea2334827)
+
+
+
+
+![image](https://github.com/user-attachments/assets/40196994-a3da-463a-b3a9-8dbbc64f1307)
+
+
+
+
+![image](https://github.com/user-attachments/assets/a21de9cc-a964-48c4-b924-3a8b0f486578)
+
+
+
+
+![image](https://github.com/user-attachments/assets/b2551cb4-5ece-4f9a-99d0-2b9e61994803)
 
