@@ -208,8 +208,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 16.) We continue the osTicket setup in the browser by clicking "Continue". Next, we choose a name for our helpdesk and specify a default email address to receive notifications for customer-submitted tickets.
 
 
+![image](https://github.com/user-attachments/assets/1d6c9e71-a807-4859-8721-6d88dbe1e6fa)
 
 
+![image](https://github.com/user-attachments/assets/eebd253c-c230-4207-b1a7-892d7dc26e59)
+
+
+![image](https://github.com/user-attachments/assets/cbe7cfe4-ec64-4d64-b36e-8deb42c8b00c)
+
+
+![image](https://github.com/user-attachments/assets/b37c6bb7-bc5c-407e-9be5-c8b61fef1af1)
+
+17.) From the os-Ticket-Installation-Files folder, install HeidiSQL. Once installed, launch the application and create a new session using "root" for both the username and password. In the left-hand panel, right-click on "Unnamed" and create a new database named osTicket.
+
+
+
+
+![image](https://github.com/user-attachments/assets/a039727e-787f-4079-9cc1-e55c886aa081)
+
+18.) Last, we continue setting up osTicket in the web browser of the VM. Under MySQL Database we type in “osTicket”. For both MySQL Username and MySQL Password, we type in “root”. When we click on the “Install Now” button we have finished with the installation of osTicket to our virtual machine.
 
 
 
