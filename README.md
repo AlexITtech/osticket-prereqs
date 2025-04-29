@@ -161,6 +161,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/user-attachments/assets/080edcf2-61be-4155-89d2-6d2f814f53fb)
 
+11.) "Next, we open IIS Manager as an administrator. To ensure PHP is properly integrated, we register it within IIS by configuring the required settings for handling PHP scripts. Once the configuration is complete, we restart the server by selecting the 'Restart' option in IIS Manager. This step is necessary to apply the changes and ensure IIS is fully ready to process PHP requests. After the restart, we verify that PHP is working correctly by checking the IIS logs and running a test script."
 
 
 
