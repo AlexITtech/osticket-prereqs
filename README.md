@@ -86,7 +86,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/user-attachments/assets/0282a6ea-cb48-4714-8fd5-d86f8233d325)
 
-
+8.) Next, we create a new directory at C:\PHP to store the PHP runtime. We then extract all the contents of the PHP 7.3.8 archive (php-7.3.8-nts-Win32-VC15-x86.zip) into this folder. This step is essential for configuring PHP with IIS, as it allows the server to locate and execute PHP scripts correctly. Once extracted, we verify that all necessary files, including php.ini, are present in the directory."
 
 
 ![image](https://github.com/user-attachments/assets/d3254e10-aaba-48aa-8daf-b0aea2334827)
@@ -96,7 +96,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/user-attachments/assets/40196994-a3da-463a-b3a9-8dbbc64f1307)
 
-
+9.) Next, we install VC_redist.x86.exe from the osTicket installation folder to ensure the required Visual C++ Redistributable components are properly installed. This step is crucial for the correct functioning of PHP and other components that rely on these libraries. After installation, we restart the system to apply the changes, ensuring that all dependencies are correctly initialized for the setup process."
 
 
 ![image](https://github.com/user-attachments/assets/a21de9cc-a964-48c4-b924-3a8b0f486578)
@@ -111,7 +111,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/user-attachments/assets/9bb77b7d-aa4b-4b29-aeab-ce3127e39468)
 
-
+10.) Next, we install MySQL (mysql-5.5.62-win32.msi) from the osTicket installation folder to set up the MySQL database server. After installation, we run the configuration wizard and select the standard configuration option. When prompted for a username and password, we choose 'root' for both to keep the setup simple for this project. Finally, we complete the installation by clicking the 'Execute' button."
 
 
 ![image](https://github.com/user-attachments/assets/99ab420b-cc71-4c9d-8092-d9517dde9fa5)
