@@ -27,12 +27,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 ![Screenshot 2025-04-28 092017](https://github.com/user-attachments/assets/deaa8482-1fe4-4eba-9e92-d9bc7af85a0e)
+
 1.) First, we set up a resource group in Microsoft azure and name it osTicket. Next, we create a virtual machine (VM) within this group, using a Windows 10 image and ensuring it is configured with a minimum of 2 vCPUS.
 
 
 ![Screenshot 2025-04-28 092549](https://github.com/user-attachments/assets/8dfd6278-6e02-42d3-aa2c-e9fe054f7de7)
 
-
+2.) We access the virtual machine using Remote Desktop Protocol (RDP) by entering its public IPv4 address, which can be found in the Azure portal."
 
 
 ![osticket install_LI](https://github.com/user-attachments/assets/4a23beff-a906-4ea8-8680-1eb6b4eab2d9)
