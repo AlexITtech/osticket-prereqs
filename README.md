@@ -38,12 +38,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![osticket install_LI](https://github.com/user-attachments/assets/4a23beff-a906-4ea8-8680-1eb6b4eab2d9)
 
-
+3.) "After establishing a connection to the VM, we download the osTicket-Installation-Files.zip file and extract its contents to the desktop. The resulting folder, named os-Ticket-Installation-Files, contains the necessary files for installing osTicket."
 
 
 ![image](https://github.com/user-attachments/assets/e8c380f4-c0c2-4503-996c-1a796efd579e)
 
-
+4.) "Next, we enable Internet Information Services (IIS) by going to the Control Panel and selecting 'Turn Windows features on or off.' We scroll down to locate IIS, check the box to enable it, and expand the selection. Under 'World Wide Web Services' > 'Application Development Features,' we ensure that 'CGI' is selected, then click OK to apply the changes."
 
 
 ![image](https://github.com/user-attachments/assets/aa044c4f-8a9e-412b-8be1-9952aa9206a3)
@@ -59,10 +59,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/user-attachments/assets/7e16ac1a-8c82-4561-9bda-d8a80ebc1e3f)
 
 
-
-
 ![image](https://github.com/user-attachments/assets/51d0a6e2-44b3-4cc7-8885-dea720bbd317)
 
+5.) Within the osTicket installation folder on the VM’s desktop, we find and run the PHP Manager installer (PHPManagerForIIS_V1.5.0.msi) to continue the setup process."
 
 
 
@@ -73,7 +72,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/user-attachments/assets/2a4b0988-34bb-4a9e-9ec9-9eaa6c1a130b)
 
-
+6.) Within the same folder, we install the Rewrite Module to continue configuring the environment.
 
 ![image](https://github.com/user-attachments/assets/1a2ff974-bb16-4dda-a098-f18435250279)
 
@@ -82,7 +81,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/user-attachments/assets/36d86ccb-d7bd-47f4-88b6-78f90ba833b2)
 
-
+7.) "In the same directory, we install the Rewrite Module to proceed with configuring the environment."
 
 
 ![image](https://github.com/user-attachments/assets/0282a6ea-cb48-4714-8fd5-d86f8233d325)
